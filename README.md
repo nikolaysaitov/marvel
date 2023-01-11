@@ -1,4 +1,4 @@
-# marvel
+# marvel(Desktop version)
 SPA приложение на React  
 
 Описание: Сервис, с персонажаами изкомиксов Marvel.  
